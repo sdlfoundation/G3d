@@ -5,7 +5,7 @@
 #include <nw/g3d/fnd/g3d_GfxState.h>
 #include <nw/g3d/fnd/g3d_GfxObject.h>
 
-#include <cafe/os/OSTime.h>
+//#include <cafe/os/OSTime.h>
 
 #define OS_TIMER_CLOCK      (243000000u/4)
 
