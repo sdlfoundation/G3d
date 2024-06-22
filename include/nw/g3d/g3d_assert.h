@@ -1,7 +1,7 @@
 ﻿#ifndef NW_G3D_ASSERT_H_
 #define NW_G3D_ASSERT_H_
 
-#include <cafe/os.h>
+#include <coreinit/debug.h>
 
 #ifndef NW_G3D_ASSERTMSG
 #if NW_G3D_IS_DEBUG || NW_G3D_IS_DEVELOP

@@ -124,7 +124,12 @@ using namespace nw::g3d::res;
 
 } } // namespace nw::g3d
 
-#include <cafe/os/OSCore.h>
+//todo: possibly put a wut include here:
+//wut doesnt seem have an equivilant to this:
+//#include <cafe/os/OSCore.h>
+
+//it might have been used just to get this included in
+#include <types.h>
 
 typedef u8 bit8;
 typedef u16 bit16;
