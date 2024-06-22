@@ -7,6 +7,9 @@
 
 #include <cafe/os/OSTime.h>
 
+#define OS_TIMER_CLOCK      (243000000u/4)
+
+
 namespace nw { namespace g3d { namespace fnd {
 
 GPUClock::Tick GPUClock::s_Freq = OS_TIMER_CLOCK;
