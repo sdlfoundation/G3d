@@ -12,25 +12,25 @@
  */
 #include <sdk_ver.h>
 #include <gx2/clear.h>
-#include <gx2/ccontext.h>
-#include <gx2/cdebug.h>
-#include <gx2/cdisplay.h>
-#include <gx2/cdisplaylist.h>
-#include <gx2/cdraw.h>
-#include <gx2/cenum.h>
-#include <gx2/cevent.h>
-#include <gx2/cgx2.dox>
-#include <gx2/cmem.h>
-#include <gx2/cregisters.h>
-#include <gx2/csampler.h>
-#include <gx2/cshaders.h>
-#include <gx2/cstate.h>
-#include <gx2/csurface.h>
-#include <gx2/cswap.h>
-#include <gx2/ctemp.h>
-#include <gx2/ctessellation.h>
-#include <gx2/ctexture.h>
-#include <gx2/cutils.h>
+#include <gx2/context.h>
+#include <gx2/debug.h>
+#include <gx2/display.h>
+#include <gx2/displaylist.h>
+#include <gx2/draw.h>
+#include <gx2/enum.h>
+#include <gx2/event.h>
+#include <gx2/gx2.dox>
+#include <gx2/mem.h>
+#include <gx2/registers.h>
+#include <gx2/sampler.h>
+#include <gx2/shaders.h>
+#include <gx2/state.h>
+#include <gx2/surface.h>
+#include <gx2/swap.h>
+#include <gx2/temp.h>
+#include <gx2/tessellation.h>
+#include <gx2/texture.h>
+#include <gx2/utils.h>
 
 namespace nw { namespace g3d { namespace fnd { namespace internal {
 
